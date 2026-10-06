@@ -1,0 +1,11 @@
+# Pliki generowane przez GHC
+*.hi
+*.o
+*.exe
+*.dyn_hi
+*.dyn_o
+dist-newstyle/
+.stack-work/
+
+# Ustawienia edytora
+.vscode/
